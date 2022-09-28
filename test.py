@@ -7,7 +7,8 @@ Created on Wed Sep 28 13:09:02 2022
 """
 
 a = 10
-b = 20 
+b = 20
+c = 30
 
-print(a+b)
+print(a+b+c)
 
